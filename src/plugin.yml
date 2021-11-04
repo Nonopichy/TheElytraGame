@@ -1,7 +1,7 @@
-main: theelytragame.nowars.corporation.Main
-name: THeElytraGame
+main: nowars.corporation.theelytragame.Main
+name: TheElytraGame
 author: Nonopichy
-version: 1.0
+version: 1.2
 commands:
   join:
   quit:
